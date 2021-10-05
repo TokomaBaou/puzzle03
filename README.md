@@ -1,2 +1,2 @@
-# puzzle03
+# divpuzzle03
 Created with CodeSandbox
